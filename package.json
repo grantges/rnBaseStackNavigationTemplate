@@ -1,0 +1,8 @@
+{
+  "name": "rnBaseStackNavigationTemplate",
+  "version": "0.0.1",
+  "description": "React Native Base Stack Navigation Template",
+  "repository": "git@github.com:grantges/rn-base-stack-navigation-template.git",
+  "author": "Bert Grantges <bert@grantges.co",
+  "license": "MIT"
+}
